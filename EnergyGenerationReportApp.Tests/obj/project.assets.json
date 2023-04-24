@@ -7424,11 +7424,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DevTest\\EnergyGenerationReportApp.Tests\\EnergyGenerationReportApp.Tests.csproj",
+      "projectUniqueName": "C:\\EnergyGenerationReportApp\\EnergyGenerationReportApp\\EnergyGenerationReportApp.Tests\\EnergyGenerationReportApp.Tests.csproj",
       "projectName": "EnergyGenerationReportApp.Tests",
-      "projectPath": "C:\\DevTest\\EnergyGenerationReportApp.Tests\\EnergyGenerationReportApp.Tests.csproj",
+      "projectPath": "C:\\EnergyGenerationReportApp\\EnergyGenerationReportApp\\EnergyGenerationReportApp.Tests\\EnergyGenerationReportApp.Tests.csproj",
       "packagesPath": "C:\\Users\\rpraja\\.nuget\\packages\\",
-      "outputPath": "C:\\DevTest\\EnergyGenerationReportApp.Tests\\obj\\",
+      "outputPath": "C:\\EnergyGenerationReportApp\\EnergyGenerationReportApp\\EnergyGenerationReportApp.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7450,8 +7450,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\DevTest\\EnergyGenerationReportApp\\EnergyGenerationReportApp.csproj": {
-              "projectPath": "C:\\DevTest\\EnergyGenerationReportApp\\EnergyGenerationReportApp.csproj"
+            "C:\\EnergyGenerationReportApp\\EnergyGenerationReportApp\\EnergyGenerationReportApp\\EnergyGenerationReportApp.csproj": {
+              "projectPath": "C:\\EnergyGenerationReportApp\\EnergyGenerationReportApp\\EnergyGenerationReportApp\\EnergyGenerationReportApp.csproj"
             }
           }
         }

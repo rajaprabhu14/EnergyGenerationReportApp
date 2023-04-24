@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P3bTbKIMyzMDEdNlISdy9/pxIicaSEIFq8GDFxGLSuESko/O1RQvYWyaN5S3NG9axCTLNIrnEUq1OOvGCSYaJg==",
+  "dgSpecHash": "3rXXlVn2yYPZvutszBuI+Fu+FOtcPAAKOY7ddS0B4fiwGhq5HQ9bkmnzpHQuArUPz6QhikqwNc7oeklA+SmlPg==",
   "success": true,
-  "projectFilePath": "C:\\DevTest\\EnergyGenerationReportApp.Tests\\EnergyGenerationReportApp.Tests.csproj",
+  "projectFilePath": "C:\\EnergyGenerationReportApp\\EnergyGenerationReportApp\\EnergyGenerationReportApp.Tests\\EnergyGenerationReportApp.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rpraja\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\rpraja\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
